@@ -6,9 +6,6 @@
 #### Meu objetivo é me tornar um desenvolvedor Full Stack contribuindo para projetos desafiadores e aprendendo continuamente com novas tecnologias. Busco oportunidades para aplicar meus conhecimentos e crescer profissionalmente.
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabrielsln&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielsln&repo=repo-contribution&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gabrielsln/repo-contribution)
 
 
@@ -47,7 +44,6 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabrielsln&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielsln&repo=repo-contribution&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gabrielsln/repo-contribution)
 
