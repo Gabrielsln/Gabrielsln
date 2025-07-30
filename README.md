@@ -11,7 +11,6 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielsln&repo=repo-contribution&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gabrielsln/repo-contribution)
 
-![Snake animation](https://github.com/Gabrielsln/Gabrielsln/blob/output/github-contribution-grid-snake.svg)
 
 # Ferramentas
 
