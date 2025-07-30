@@ -1,4 +1,4 @@
-# Gabriel Nunes
+##### Gabriel Nunes
 
 #### Olá! 👋 , me chamo Gabriel, sou estudante de Análise e Desenvolvimento de Sistemas, e estou focando no momento em Java ☕. 
 #### Além disso, tenho grande interesse em me aprofundar no **desenvolvimento com Spring Boot** e  **Docker** para orquestração de containers.
@@ -10,6 +10,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabrielsln&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielsln&repo=repo-contribution&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gabrielsln/repo-contribution)
+
+![Snake animation](https://github.com/Gabrielsln/Gabrielsln/blob/output/github-contribution-grid-snake.svg)
 
 # Ferramentas
 
